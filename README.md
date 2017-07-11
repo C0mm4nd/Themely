@@ -1,6 +1,6 @@
-<img src="https://3dsthem.es/app/screenshot.png" alt="Themely screenshot"/><br/>
+<h3 align=center><img src="https://3dsthem.es/app/screenshot.png" alt="Themely screenshot"/><br/>
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
-<a href="https://github.com/Aib0t/Themely/releases/latest">Download</a><br/>
+<a href="https://github.com/Aib0t/Themely/releases/latest">Download</a><br/></h3>
 
 # Features
 - **Native code, which allows us to have...**
