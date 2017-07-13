@@ -1,6 +1,6 @@
 <h3 align=center><img src="https://3dsthem.es/app/screenshot.png" alt="Themely screenshot"/><br/>
 <b>Themely</b> is a custom home menu manager for the Nintendo 3DS.<br/><br/>
-<a href="https://github.com/Aib0t/Themely/releases/latest">Download</a><br/></h3>
+<a href="https://github.com/C0mm4nd/ThemelyDX/releases/latest">Download</a><br/></h3>
 
 # Features
 - **Native code, which allows us to have...**
@@ -19,7 +19,7 @@
 (<b>&#x002A;</b> = new in the latest stable release)
 
 <h3 align="center">
-<a href="https://github.com/Aib0t/Themely/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">Planned features</a> - <a href="https://github.com/Aib0t/Themely/issues?q=is%3Aissue+is%3Aopen+label%3Abug">Known bugs</a>
+<a href="https://github.com/C0mm4nd/ThemelyDX/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">Planned features</a> - <a href="https://github.com/C0mm4nd/ThemelyDX/issues?q=is%3Aissue+is%3Aopen+label%3Abug">Known bugs</a>
 </h3>
 
 # Dependencies & Building
@@ -29,7 +29,7 @@
 - Latest version of sf2dlib
 - Latest version of sftdlib
 - Latest version of sfillib
-- zlib, libpng, libjpeg-turbo, freetype, libogg, and tremor from 3ds-portlibs (https://github.com/ErmanSayin/3ds_portlibs/ recommended)
+- zlib, libpng, libjpeg-turbo, freetype, libogg, and tremor from 3ds-portlibs (https://github.com/xerpi/3ds_portlibs/)
 
 You can run the `deps.sh` script to install `sf2dlib`, `sftdlib`, `sfillib`, and `3ds-portlibs` automatically.
 
