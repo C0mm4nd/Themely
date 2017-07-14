@@ -35,7 +35,7 @@ std::map<std::string, std::wstring> ENGLISH = {
 	{"qr_explain_1",        L"Scan a QR Code of a direct link to"},
 	{"qr_explain_2",        L"a ZIP file of a theme to download it."},
 	{"qr_explain_3",        L"Go to 3dsthemesarchive.tk, look in the archive for a theme and"},
-	{"qr_explain_4",        L"the id of that theme. Go back to themes section than enter a id."},
+	{"qr_explain_4",        L"the id of that theme. Go back to main page themes than enter a id."},
 	{"qr_explain_5",        L"Click on the big green button that says qr code than scan it."},
 	{"update_prompt",       L"Install this update?"},
 	{"yes",                 L"Yes"},
